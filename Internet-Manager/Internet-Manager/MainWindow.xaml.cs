@@ -1,39 +1,51 @@
 ﻿using SharpPcap;
+using System;
 using System.Linq;
+using System.Text;
 using System.Windows;
 
 namespace Internet_Manager
 {
     public partial class MainWindow : Window
     {
+        private ICaptureDevice selectedDevice;
+
         public MainWindow()
         {
             InitializeComponent();
-            LoadInformation();
+            LoadDevices();
         }
-        private void LoadInformation()
+
+        private void LoadDevices()
         {
-            CaptureDeviceList deviceList = CaptureDeviceList.Instance;
-            var list = deviceList.Select(device => new { Name = device.Name, Description = device.Description, Status = CheckDeviceStatus(device) }).ToList();
-            var devices = list;
-            DevicesTable.ItemsSource = devices;
+            var devices = CaptureDeviceList.Instance;
+            DeviceList.ItemsSource = devices.Select(d => d.Description).ToList();
+            DeviceList.SelectedIndex = 0;
         }
-        private string CheckDeviceStatus(ICaptureDevice device)
+
+        private void StartCaptureButton_Click(object sender, RoutedEventArgs e)
         {
-            try
+            var devices = CaptureDeviceList.Instance;
+            selectedDevice = devices[DeviceList.SelectedIndex];
+            selectedDevice.OnPacketArrival += Device_OnPacketArrival;
+            selectedDevice.Open();
+            selectedDevice.StartCapture();
+        }
+
+        private void Device_OnPacketArrival(object sender, PacketCapture e)
+        {
+            var rawPacket = e.GetPacket();
+            StringBuilder packetDetails = new StringBuilder();
+            byte[] packetData = rawPacket.Data;
+            packetDetails.AppendLine("Первые 100 байт пакета:");
+            for (int i = 0; i < Math.Min(packetData.Length, 100); i++)
             {
-                device.Open(); 
-                device.Close();
-                return "Available";
+                packetDetails.AppendFormat("{0:X2} ", packetData[i]);
             }
-            catch
+            Dispatcher.Invoke(() =>
             {
-                return "Unavailable";
-            }
-        }
-        private void RefreshButton_Click(object sender, RoutedEventArgs e)
-        {
-            LoadInformation();
+                PacketDetails.Text += packetDetails.ToString() + "\n";
+            });
         }
     }
 }

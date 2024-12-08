@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "Internet-Manager/1.0.0": {
         "dependencies": {
+          "PacketDotNet": "1.4.7",
           "SharpPcap": "6.3.0"
         },
         "runtime": {

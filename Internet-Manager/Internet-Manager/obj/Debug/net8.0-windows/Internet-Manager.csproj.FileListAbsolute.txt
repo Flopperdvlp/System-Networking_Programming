@@ -9,7 +9,6 @@ C:\Users\Masha\source\repos\Internet-Manager\Internet-Manager\obj\Debug\net8.0-w
 C:\Users\Masha\source\repos\Internet-Manager\Internet-Manager\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Users\Masha\source\repos\Internet-Manager\Internet-Manager\obj\Debug\net8.0-windows\App.g.cs
 C:\Users\Masha\source\repos\Internet-Manager\Internet-Manager\obj\Debug\net8.0-windows\Internet-Manager_MarkupCompile.cache
-C:\Users\Masha\source\repos\Internet-Manager\Internet-Manager\obj\Debug\net8.0-windows\Internet-Manager_MarkupCompile.lref
 C:\Users\Masha\source\repos\Internet-Manager\Internet-Manager\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\Masha\source\repos\Internet-Manager\Internet-Manager\obj\Debug\net8.0-windows\Internet-Manager.g.resources
 C:\Users\Masha\source\repos\Internet-Manager\Internet-Manager\obj\Debug\net8.0-windows\Internet-Manager.GeneratedMSBuildEditorConfig.editorconfig

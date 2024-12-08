@@ -1,13 +1,10 @@
 ﻿<Window x:Class="Internet_Manager.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Internet_Manager"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Network Traffic Monitor" Height="400" Width="600">
     <Grid>
-        <DataGrid x:Name="DevicesTable" AutoGenerateColumns="True" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="10"/>
-        <Button Content="Refresh" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="10" Click="RefreshButton_Click"/>
+        <ComboBox x:Name="DeviceList" HorizontalAlignment="Left" VerticalAlignment="Top" Width="550" Margin="10"/>
+        <Button Content="Start Capture" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Height="30" Margin="10,40,0,0" Click="StartCaptureButton_Click"/>
+        <TextBox x:Name="PacketDetails" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,80,10,10" VerticalScrollBarVisibility="Auto" TextWrapping="Wrap" AcceptsReturn="True"/>
     </Grid>
 </Window>
