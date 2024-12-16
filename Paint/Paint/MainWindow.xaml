@@ -1,0 +1,31 @@
+﻿<Window x:Class="Paint.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Paint - Color Picker" Height="500" Width="800">
+    <Grid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10">
+            <WrapPanel Width="300">
+                <Button Width="25" Height="25" Background="Black" Tag="Black" Click="ColorButton_Click"/>
+                <Button Width="25" Height="25" Background="Gray" Tag="Gray" Click="ColorButton_Click"/>
+                <Button Width="25" Height="25" Background="Red" Tag="Red" Click="ColorButton_Click"/>
+                <Button Width="25" Height="25" Background="Orange" Tag="Orange" Click="ColorButton_Click"/>
+                <Button Width="25" Height="25" Background="Yellow" Tag="Yellow" Click="ColorButton_Click"/>
+                <Button Width="25" Height="25" Background="Green" Tag="Green" Click="ColorButton_Click"/>
+                <Button Width="25" Height="25" Background="Blue" Tag="Blue" Click="ColorButton_Click"/>
+                <Button Width="25" Height="25" Background="Purple" Tag="Purple" Click="ColorButton_Click"/>
+                <Button Width="25" Height="25" Background="White" BorderBrush="Gray" Tag="White" Click="ColorButton_Click"/>
+            </WrapPanel>
+
+            <StackPanel Orientation="Horizontal" Margin="20,0,0,0">
+                <Label Content="Толщина кисти:" VerticalAlignment="Center"/>
+                <Slider Name="BrushSizeSlider" Minimum="1" Maximum="20" Value="5" Width="100" Margin="5,0,0,0"/>
+            </StackPanel>
+
+            <Button Content="Очистить холст" Width="120" Margin="20,0,0,0" Click="ClearCanvas_Click"/>
+
+            <Button Content="Сохранить" Width="120" Margin="10,0,0,0" Click="SaveCanvas_Click"/>
+        </StackPanel>
+
+        <Canvas Name="DrawingCanvas" Background="White" Margin="10,60,10,10" MouseLeftButtonDown="DrawingCanvas_MouseLeftButtonDown" MouseMove="DrawingCanvas_MouseMove" MouseLeftButtonUp="DrawingCanvas_MouseLeftButtonUp"/>
+    </Grid>
+</Window>
