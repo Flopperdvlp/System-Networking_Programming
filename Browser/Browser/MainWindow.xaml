@@ -14,10 +14,11 @@
 
         <StackPanel Orientation="Horizontal" Margin="5">
             <Button Content="Back" Click="Back" Margin="5" Width="60" />
-            <TextBox x:Name="UrlTextBox" Width="500" Margin="5" />
+            <TextBox x:Name="UrlTextBox" Width="400" Margin="5" />
             <Button Content="Go" Click="Go" Margin="5" Width="50" />
             <Button Content="Add to Favorites" Click="AddToFavoritesClick" Margin="5" Width="120" />
             <Button Content="Show Favorites" Click="ShowFavoritesClick" Margin="5" Width="120" />
+            <Button Content="Open in New Window" Click="OpenCurrentUrlInNewWindow" Margin="5" Width="160" />
         </StackPanel>
 
         <wv2:WebView2 x:Name="Browser" Grid.Row="1" />

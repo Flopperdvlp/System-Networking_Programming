@@ -1,3 +1,6 @@
-2024/12/12-20:03:58.480 7754 Reusing MANIFEST C:\Users\Masha\source\repos\Browser\Browser\bin\Debug\net8.0-windows\Browser.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
-2024/12/12-20:03:58.517 7754 Recovering log #3
-2024/12/12-20:03:58.533 7754 Reusing old log C:\Users\Masha\source\repos\Browser\Browser\bin\Debug\net8.0-windows\Browser.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000003.log 
+2024/12/17-00:53:18.147 5ddc Reusing MANIFEST C:\Users\Masha\source\repos\Browser\Browser\bin\Debug\net8.0-windows\Browser.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2024/12/17-00:53:18.174 5ddc Recovering log #3
+2024/12/17-00:53:18.186 5ddc Reusing old log C:\Users\Masha\source\repos\Browser\Browser\bin\Debug\net8.0-windows\Browser.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000003.log 
+2024/12/17-00:53:53.111 5ddc Level-0 table #5: started
+2024/12/17-00:53:53.124 5ddc Level-0 table #5: 51347 bytes OK
+2024/12/17-00:53:53.127 5ddc Delete type=0 #3
