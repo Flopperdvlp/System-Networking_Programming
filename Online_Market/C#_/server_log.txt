@@ -1,0 +1,12 @@
+getcwd() failed: Operation not permitted
+Unhandled exception: System.UnauthorizedAccessException: Access to the path is denied.
+ ---> System.IO.IOException: Operation not permitted
+   --- End of inner exception stack trace ---
+   at Interop.Sys.GetCwdHelper(Byte* ptr, Int32 bufferSize)
+   at Interop.Sys.GetCwd()
+   at Microsoft.DotNet.Tools.Run.RunCommand.DiscoverProjectFilePath(String projectFileOrDirectoryPath)
+   at Microsoft.DotNet.Tools.Run.RunCommand.FromParseResult(ParseResult parseResult)
+   at Microsoft.DotNet.Tools.Run.RunCommand.Run(ParseResult parseResult)
+   at System.CommandLine.Invocation.InvocationPipeline.Invoke(ParseResult parseResult)
+   at System.CommandLine.ParseResult.Invoke()
+   at Microsoft.DotNet.Cli.Program.ProcessArgs(String[] args, TimeSpan startupTime, ITelemetry telemetryClient)
