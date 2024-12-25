@@ -1,0 +1,14 @@
+/Users/gleb/Desktop/Code/Client1/bin/Debug/net8.0/Client1
+/Users/gleb/Desktop/Code/Client1/bin/Debug/net8.0/Client1.deps.json
+/Users/gleb/Desktop/Code/Client1/bin/Debug/net8.0/Client1.runtimeconfig.json
+/Users/gleb/Desktop/Code/Client1/bin/Debug/net8.0/Client1.dll
+/Users/gleb/Desktop/Code/Client1/bin/Debug/net8.0/Client1.pdb
+/Users/gleb/Desktop/Code/Client1/obj/Debug/net8.0/Client1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gleb/Desktop/Code/Client1/obj/Debug/net8.0/Client1.AssemblyInfoInputs.cache
+/Users/gleb/Desktop/Code/Client1/obj/Debug/net8.0/Client1.AssemblyInfo.cs
+/Users/gleb/Desktop/Code/Client1/obj/Debug/net8.0/Client1.csproj.CoreCompileInputs.cache
+/Users/gleb/Desktop/Code/Client1/obj/Debug/net8.0/Client1.dll
+/Users/gleb/Desktop/Code/Client1/obj/Debug/net8.0/refint/Client1.dll
+/Users/gleb/Desktop/Code/Client1/obj/Debug/net8.0/Client1.pdb
+/Users/gleb/Desktop/Code/Client1/obj/Debug/net8.0/Client1.genruntimeconfig.cache
+/Users/gleb/Desktop/Code/Client1/obj/Debug/net8.0/ref/Client1.dll
