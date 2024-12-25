@@ -1,0 +1,70 @@
+/Users/gleb/Desktop/Code/C#/obj/Debug/net8.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gleb/Desktop/Code/C#/obj/Debug/net8.0/C#.AssemblyInfoInputs.cache
+/Users/gleb/Desktop/Code/C#/obj/Debug/net8.0/C#.AssemblyInfo.cs
+/Users/gleb/Desktop/Code/C#/obj/Debug/net8.0/C#.csproj.CoreCompileInputs.cache
+/Users/gleb/Desktop/Code/C#/bin/Debug/net8.0/C#
+/Users/gleb/Desktop/Code/C#/bin/Debug/net8.0/C#.deps.json
+/Users/gleb/Desktop/Code/C#/bin/Debug/net8.0/C#.runtimeconfig.json
+/Users/gleb/Desktop/Code/C#/bin/Debug/net8.0/C#.dll
+/Users/gleb/Desktop/Code/C#/bin/Debug/net8.0/C#.pdb
+/Users/gleb/Desktop/Code/C#/obj/Debug/net8.0/C#.dll
+/Users/gleb/Desktop/Code/C#/obj/Debug/net8.0/refint/C#.dll
+/Users/gleb/Desktop/Code/C#/obj/Debug/net8.0/C#.pdb
+/Users/gleb/Desktop/Code/C#/obj/Debug/net8.0/C#.genruntimeconfig.cache
+/Users/gleb/Desktop/Code/C#/obj/Debug/net8.0/ref/C#.dll
+/Users/gleb/Desktop/Desktop - Gleb’s MacBook Pro/Code/C#/bin/Debug/net8.0/C#
+/Users/gleb/Desktop/Desktop - Gleb’s MacBook Pro/Code/C#/bin/Debug/net8.0/C#.deps.json
+/Users/gleb/Desktop/Desktop - Gleb’s MacBook Pro/Code/C#/bin/Debug/net8.0/C#.runtimeconfig.json
+/Users/gleb/Desktop/Desktop - Gleb’s MacBook Pro/Code/C#/bin/Debug/net8.0/C#.dll
+/Users/gleb/Desktop/Desktop - Gleb’s MacBook Pro/Code/C#/bin/Debug/net8.0/C#.pdb
+/Users/gleb/Desktop/Desktop - Gleb’s MacBook Pro/Code/C#/obj/Debug/net8.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gleb/Desktop/Desktop - Gleb’s MacBook Pro/Code/C#/obj/Debug/net8.0/C#.AssemblyInfoInputs.cache
+/Users/gleb/Desktop/Desktop - Gleb’s MacBook Pro/Code/C#/obj/Debug/net8.0/C#.AssemblyInfo.cs
+/Users/gleb/Desktop/Desktop - Gleb’s MacBook Pro/Code/C#/obj/Debug/net8.0/C#.csproj.CoreCompileInputs.cache
+/Users/gleb/Desktop/Desktop - Gleb’s MacBook Pro/Code/C#/obj/Debug/net8.0/C#.dll
+/Users/gleb/Desktop/Desktop - Gleb’s MacBook Pro/Code/C#/obj/Debug/net8.0/refint/C#.dll
+/Users/gleb/Desktop/Desktop - Gleb’s MacBook Pro/Code/C#/obj/Debug/net8.0/C#.pdb
+/Users/gleb/Desktop/Desktop - Gleb’s MacBook Pro/Code/C#/obj/Debug/net8.0/C#.genruntimeconfig.cache
+/Users/gleb/Desktop/Desktop - Gleb’s MacBook Pro/Code/C#/obj/Debug/net8.0/ref/C#.dll
+/Users/gleb/Desktop/Desktop_/Code/C#_/bin/Debug/net8.0/C#
+/Users/gleb/Desktop/Desktop_/Code/C#_/bin/Debug/net8.0/C#.deps.json
+/Users/gleb/Desktop/Desktop_/Code/C#_/bin/Debug/net8.0/C#.runtimeconfig.json
+/Users/gleb/Desktop/Desktop_/Code/C#_/bin/Debug/net8.0/C#.dll
+/Users/gleb/Desktop/Desktop_/Code/C#_/bin/Debug/net8.0/C#.pdb
+/Users/gleb/Desktop/Desktop_/Code/C#_/obj/Debug/net8.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gleb/Desktop/Desktop_/Code/C#_/obj/Debug/net8.0/C#.AssemblyInfoInputs.cache
+/Users/gleb/Desktop/Desktop_/Code/C#_/obj/Debug/net8.0/C#.AssemblyInfo.cs
+/Users/gleb/Desktop/Desktop_/Code/C#_/obj/Debug/net8.0/C#.csproj.CoreCompileInputs.cache
+/Users/gleb/Desktop/Desktop_/Code/C#_/obj/Debug/net8.0/C#.dll
+/Users/gleb/Desktop/Desktop_/Code/C#_/obj/Debug/net8.0/refint/C#.dll
+/Users/gleb/Desktop/Desktop_/Code/C#_/obj/Debug/net8.0/C#.pdb
+/Users/gleb/Desktop/Desktop_/Code/C#_/obj/Debug/net8.0/C#.genruntimeconfig.cache
+/Users/gleb/Desktop/Desktop_/Code/C#_/obj/Debug/net8.0/ref/C#.dll
+/Volumes/gleb/Desktop/Desktop_/Code/C#_/obj/Debug/net8.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/gleb/Desktop/Desktop_/Code/C#_/obj/Debug/net8.0/C#.AssemblyInfoInputs.cache
+/Volumes/gleb/Desktop/Desktop_/Code/C#_/obj/Debug/net8.0/C#.AssemblyInfo.cs
+/Volumes/gleb/Desktop/Desktop_/Code/C#_/obj/Debug/net8.0/C#.csproj.CoreCompileInputs.cache
+/Volumes/gleb/Desktop/Desktop_/Code/C#_/obj/Debug/net8.0/C#.dll
+/Volumes/gleb/Desktop/Desktop_/Code/C#_/obj/Debug/net8.0/refint/C#.dll
+/Volumes/gleb/Desktop/Desktop_/Code/C#_/obj/Debug/net8.0/C#.pdb
+/Volumes/gleb/Desktop/Desktop_/Code/C#_/bin/Debug/net8.0/C#
+/Volumes/gleb/Desktop/Desktop_/Code/C#_/bin/Debug/net8.0/C#.deps.json
+/Volumes/gleb/Desktop/Desktop_/Code/C#_/bin/Debug/net8.0/C#.runtimeconfig.json
+/Volumes/gleb/Desktop/Desktop_/Code/C#_/bin/Debug/net8.0/C#.dll
+/Volumes/gleb/Desktop/Desktop_/Code/C#_/bin/Debug/net8.0/C#.pdb
+/Volumes/gleb/Desktop/Desktop_/Code/C#_/obj/Debug/net8.0/C#.genruntimeconfig.cache
+/Volumes/gleb/Desktop/Desktop_/Code/C#_/obj/Debug/net8.0/ref/C#.dll
+/Users/gleb/Desktop/Code/C#_/bin/Debug/net8.0/C#
+/Users/gleb/Desktop/Code/C#_/bin/Debug/net8.0/C#.deps.json
+/Users/gleb/Desktop/Code/C#_/bin/Debug/net8.0/C#.runtimeconfig.json
+/Users/gleb/Desktop/Code/C#_/bin/Debug/net8.0/C#.dll
+/Users/gleb/Desktop/Code/C#_/bin/Debug/net8.0/C#.pdb
+/Users/gleb/Desktop/Code/C#_/obj/Debug/net8.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gleb/Desktop/Code/C#_/obj/Debug/net8.0/C#.AssemblyInfoInputs.cache
+/Users/gleb/Desktop/Code/C#_/obj/Debug/net8.0/C#.AssemblyInfo.cs
+/Users/gleb/Desktop/Code/C#_/obj/Debug/net8.0/C#.csproj.CoreCompileInputs.cache
+/Users/gleb/Desktop/Code/C#_/obj/Debug/net8.0/C#.dll
+/Users/gleb/Desktop/Code/C#_/obj/Debug/net8.0/refint/C#.dll
+/Users/gleb/Desktop/Code/C#_/obj/Debug/net8.0/C#.pdb
+/Users/gleb/Desktop/Code/C#_/obj/Debug/net8.0/C#.genruntimeconfig.cache
+/Users/gleb/Desktop/Code/C#_/obj/Debug/net8.0/ref/C#.dll
